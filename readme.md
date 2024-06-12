@@ -6,8 +6,6 @@ This project implements an AI agent to play the classic Snake game using Deep Le
 
 ![Snake Game AI Demo](demo/Training_Process.gif)
 
-Click on the image above to watch the demo video on YouTube.
-
 ## Training Chart
 
 ![Training Chart](demo/Training_chart.png)
